@@ -1,0 +1,11 @@
+{
+    "description": "Opinis - AI Sentiment Intelligence Platform",
+    "repo": "https://github.com/arsonic-dev/pulse-sentiment",
+    "owner": {
+        "username": "arsonic-dev",
+        "email": "kumarankit9065@gmail.com"
+    },
+    "record": {
+        "CNAME": "cname.vercel-dns.com"
+    }
+}
